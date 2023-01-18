@@ -97,23 +97,23 @@ header .icons #menu
 }
 .home .home-slider .slide1 
 {
-	background: url(/assets/images/IMG-20221230-WA0007.jpg);
+	background: url(../images/IMG-20221230-WA0007.jpg);
 }
 .home .home-slider .slide2
 {
-	background: url(/assets/images/IMG-20221230-WA0008.jpg);
+	background: url(../images/IMG-20221230-WA0008.jpg);
 }
 .home .home-slider .slide3
 {
-	background: url(/assets/images/IMG-20221230-WA0009.jpg);
+	background: url(../images/IMG-20221230-WA0009.jpg);
 }
 .home .home-slider .slide4
 {
-	background: url(/assets/images/IMG-20221230-WA0011.jpg);
+	background: url(../images/IMG-20221230-WA0011.jpg);
 }
 .home .home-slider .slide5
 {
-	background: url(/assets/images/IMG-20221230-WA0013.jpg);
+	background: url(../images/IMG-20221230-WA0013.jpg);
 }
 .home .home-slider .slide1,
 .home .home-slider .slide2,
@@ -503,7 +503,7 @@ section
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(/assets/images/home-img.jpeg) no-repeat;
+    background:url(../images/home-img.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
 }
