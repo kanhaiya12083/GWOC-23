@@ -1,7 +1,7 @@
-GDSE,SVNIT SURAT
-GWOC-23
-Team: StatusCode 200
-Team Members: Kanhaiya Lal,
-              Abhishek Kanojiya,
-              Shah Yash,
-              Harshit Sahu
+GDSE,SVNIT SURAT <br>
+GWOC-23 <br>
+Team: StatusCode 200 <br>
+Team Members: Kanhaiya Lal,<br>
+              Abhishek Kanojiya,<br>
+              Shah Yash,<br>
+              Harshit Sahu<br>
