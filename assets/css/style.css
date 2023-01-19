@@ -504,7 +504,7 @@ section
     display: flex;
     align-items: center;
     background:url(../images/home-img.jpeg) no-repeat;
-    background-size: cover;
+    background-size:contain;
     background-position: center;
 }
 
@@ -543,4 +543,13 @@ section
     font-size: 1.5rem;
 }
 
+}
+@media(max-width:628px){
+	header .navbar{
+		display: flex;
+		flex-direction: column;
+	}
+	header .navbar a{
+		width: 100%;
+	}
 }
